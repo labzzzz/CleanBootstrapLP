@@ -1,6 +1,6 @@
 # Создание Landing Page на WordPress
 
-![Создание Landing Page на WordPress](https://raw.githubusercontent.com/labzzzz/cleanlp_bootstrap.jpg)
+![Создание Landing Page на WordPress](https://raw.githubusercontent.com/labzzzz/CleanBootstrapLP/master/cleanlp_bootstrap.jpg)
 
 <p>Бесплатный видеокурс по созданию одностраничного сайта на WordPress от А до Я.</p>
 
