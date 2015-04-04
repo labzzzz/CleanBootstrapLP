@@ -1,15 +1,14 @@
-# Создание Landing Page на WordPress
+# Создание Landing Page
 
-![Создание Landing Page на WordPress](https://raw.githubusercontent.com/labzzzz/CleanBootstrapLP/master/cleanlp_bootstrap.jpg)
+![Создание Landing Page](https://raw.githubusercontent.com/labzzzz/CleanBootstrapLP/master/cleanlp_bootstrap.jpg)
 
-<p>Бесплатный видеокурс по созданию одностраничного сайта на WordPress от А до Я.</p>
+<p>Бесплатный видеокурс по созданию одностраничного сайта от А до Я.</p>
 
 <p>Сайт проекта: <a href="http://techweb.ru" target="_blank">techweb.ru</a></p>
 
 <h3>Что использовали:</h3>
 
 <ul>
-	<li><a href="http://ru.wordpress.org" target="_blank">ru.wordpress.org</a> - Собственной персоной</li>
 	<li><a href="http://elementary.io" target="_blank">elementary.io</a> - Спасибо за логотип :)</li>
 	<li><a href="http://getbootstrap.com" target="_blank">getbootstrap.com</a> - Адаптивная сетка</li>
 	<li><a href="http://jquery.com" target="_blank">jquery.com</a> - Популярнейший javaScript Framework</li>
